@@ -915,7 +915,6 @@ img {
 .flex-conteiner-new{
   display: flex;
   flex-wrap: wrap; 
-
   align-content: center;
   margin-right: 30px;
 }
@@ -925,7 +924,6 @@ img {
   margin-bottom: 37px;
   box-sizing: border-box; 
   margin: 0; 
-  margin-right: 97px;
   width: 270px;
   height: 289px;
     
